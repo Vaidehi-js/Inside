@@ -1,0 +1,54 @@
+
+    .container{
+        display:grid;
+        grid-template-rows: 60% 40%;
+        display: flex;
+        gap: 10%;
+        align-items: center;
+        height: 100vh;
+    }
+
+    .get{
+        font-size: 30px;
+        font-family:'Times New Roman', Times, serif;
+        word-spacing: 2px;
+        letter-spacing: 1px;
+        color: black;
+    }
+
+    .top{
+        margin-top: 20px;
+        word-spacing: 2px;
+        letter-spacing: 1px;
+        color: black;
+    }
+    .learn{
+        font-family:'Times New Roman', Times, serif;
+        word-spacing: 2px;
+        letter-spacing: 1px;
+        color: black;
+        margin-top: 20px;
+    }
+
+    .talk{
+        color: white;
+        background-color: rgb(68, 175, 246);
+        border-color: rgb(98, 183, 240);
+        border-radius: 3px;
+        padding: 7px 20px 10px 20px ;
+    }
+
+
+
+    
+    .swiper{
+        width: 50%;
+        height: 70vh;
+        margin-right: 40px;
+    }
+
+    .swiper-slide img{
+        width: 100%;
+        height: 100%;
+    }
+

@@ -27,7 +27,7 @@ const Popup = () => {
       <div className="row w-100">
         <div className="col-md-6">
           <h5 className="h4">Call Our experts</h5>
-          <h6 className="h5">Data Science: +91 323r2f</h6>
+          <h6 className="h5">Data Science: +91 987654321</h6>
           <h6 className="h5">Product Management: +91 342363y</h6>
           <br />
           <img
